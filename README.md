@@ -16,7 +16,7 @@
 
 <p align="left">Redes profesionales:</p>
 <p align="left">
-<a href="https://linkedin.com/in/hugo-lópez-fernández" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo-lópez-fernández" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hugo-l%C3%B3pez-fern%C3%A1ndez-b208a717b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn de Hugo" height="30" width="40" /></a>
 </p>
 
 ###
