@@ -8,8 +8,23 @@
 
 ###
 
+- 🔭 Actualmente trabajando en **VASS**
+
+- 🌱 Actualmente estudiando **Angular y Ionic**
+
+###
+
+<p align="left">Redes profesionales:</p>
+<p align="left">
+<a href="https://linkedin.com/in/hugo-lópez-fernández" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugo-lópez-fernández" height="30" width="40" /></a>
+</p>
+
+###
+
+<p>Mis estadísticas de GitHub y demás:</p>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hugoolpz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="152" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=hugoolpz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hugoolpz&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
