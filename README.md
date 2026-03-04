@@ -10,7 +10,9 @@
 
 - 🔭 Actualmente trabajando en **VASS**
 
-- 🌱 Actualmente estudiando **Angular y Ionic**
+- 🖥️ Actualmente trabajando con **Angular 14-20, Ionic y Angular Material**
+
+- 🌱 Estudiando **React**
 
 ###
 
